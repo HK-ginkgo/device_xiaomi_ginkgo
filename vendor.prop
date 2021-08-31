@@ -159,6 +159,7 @@ ro.telephony.iwlan_operation_mode=legacy
 ro.vendor.use_data_netmgrd=true
 
 # Display
+debug.sdm.support_writeback=0
 debug.egl.hw=0
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
